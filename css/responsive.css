@@ -1,0 +1,283 @@
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+
+
+ 
+
+
+
+ @media (min-width: 768px) and (max-width: 1024px){
+
+    .intro{padding: 540px 48px; font-size: 3em;}
+
+    .photo img{ height: 660px; margin: 240px 0;}
+
+    .myphoto img{ width: 80%; padding: 20px 0; margin: 0;}
+
+    .aboutme p{ padding: 50px 10px;}
+
+    .logo img{width: 70%; height: 410px;  padding:  20px 0 ;}
+
+    .education {padding:  160px 0 ; font-size: 40px; }
+
+    
+    .education p{ padding: 0;}
+ 
+
+    .socials-media .fa{ font-size: 40px;}
+
+
+
+    #footer .socials-media ul li {
+        float: left;
+        margin-left: 5px;
+        margin-right: 5px;
+      }
+ 
+}
+
+
+@media (max-width: 768px){
+
+    .intro{padding: 20px 178px ;}
+
+    .photo img{ margin: 120px 0;}
+
+    .myphoto img{ width: 52%; margin: 0 148px; }
+
+    .logo img{ padding: 0 40px; margin: 20px 104px;}
+
+    .education{padding: 0 60px 0 124px; }
+
+    .education p{ padding: 20px;}
+
+    .circle{width: 100%;}
+
+     
+
+
+
+}
+
+
+
+@media only screen and (max-width: 767px) {
+
+   
+ 
+   
+    .intro{padding: 2px;color:rgb(54, 4, 4); font-size: 36px;}
+
+    .photo img{ margin: 0;}
+
+   .myphoto img{ margin: 0;}
+   
+    .aboutme p{padding: 0;}
+   
+    .skills .row{margin: 0;}
+    
+   
+    .logo img{width: 80%;}
+   
+    .education p{ padding: 0;}
+   
+    .circle{width: 100%;}
+   
+    .socials-media .fa{ font-size: 28px;}
+   
+}
+  
+
+
+
+
+@media (max-width: 480px) {
+
+    .myphoto img{ width: 100%; padding: 20px 0;}
+  
+    .intro{color: rgb(54, 4, 4); padding: 6px;}
+
+    .education {padding: 0 50px 0;}
+
+    .logo img{ margin: 20px 52px; padding: 0 20px 0;}
+
+    .education {padding: 0 95px 0;}
+}
+ 
+
+
+
+
+@media (max-width: 450px){
+
+    .intro{ padding: 0 72px 0;}
+
+    .photo img{ height: 434px;}
+
+    .myphoto img{ width: 80%; margin: 0 42px;}
+
+    .logo img{ width: 60%; height: 220px; padding: 0 20px; margin: 0 84px;}
+
+    .education { padding:  0 80px 0 98px;}
+
+    .education p{ padding:   20px 10px;}
+
+    .circle{width: 400px;}
+
+    #footer .socials-media ul li
+    {
+        float: left;
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    
+
+    .socials-media .fa{ font-size: 40px;}
+
+    
+}  
+  
+
+
+
+
+@media (max-width: 414px){
+
+    
+    
+    .intro{ padding: 0 52px 0;}     
+
+    .photo img{ height: 510px; margin:  40px 0;}
+ 
+    .myphoto img{padding: 20px 0;}
+
+    .logo img{padding: 0 10px; margin: 0 76px;}
+    
+    .education {padding: 20px 72px 20px 90px;}
+
+    .education p{padding: 0; } 
+
+    .circle{width: 100%;}
+
+    .socials-media .fa{ font-size: 35px;}
+
+
+ 
+}
+
+
+
+
+
+@media (max-width: 411px){
+
+    .intro{ padding: 0 48px 0;}     
+
+    .photo img{ height: 460px; margin: 100px 0;}
+
+    .myphoto img{ margin: 0 38px; height: 460px;}
+
+    .logo img{ margin: 20px 76px; }
+    
+    .education {padding: 0 70px 0 90px;}
+
+
+
+    .socials-media .fa{ font-size: 40px;}
+
+
+  
+}
+  
+
+
+
+
+@media (max-width: 375px){
+    
+  
+
+    .intro{ padding: 0 34px 0;}          
+
+    .photo img{ height: 490px; margin: 80px 0;}
+    
+    .myphoto img{ margin: 0 34px;}
+
+    .logo img{width: 80%; margin: 0 34px; padding: 0 20px;}
+    
+    .education {padding:   20px 54px 20px 70px ;}
+
+
+ 
+}
+
+
+
+
+
+
+@media (max-width: 360px){
+
+    
+   
+    .intro{ padding: 0 22px 0; font-size: 2em;}    
+
+    .photo img{ margin: 0;  height: 514px;}
+
+    .myphoto img{ width: 90% ; margin: 0 16px; ;}
+
+
+    .logo img{ padding: 0 34px;}
+
+    .education {padding:   20px 42px 20px 66px ;}
+
+
+    
+
+}
+
+
+
+
+
+
+@media (max-width: 320px){
+    
+
+    .photo img{ height: 500px;}
+
+    .logo img{ margin: 20px 30px; padding: 4px 20px;}
+
+    .education {padding: 0 12px 0 42px;}
+
+
+    
+
+} 
+
+
+
+
+
+@media (max-width: 280px){
+
+    .intro{ padding: 0 18px; font-size: 28px;}
+
+    .photo img{ height: 514px;}
+
+    .myphoto img{ height: 400px; margin: 0 12px;}
+
+    .logo img{ padding: 20px 0; margin: 0 25px;}
+
+    .education {padding: 0 14px 0;}
+
+    .socials-media .fa{ font-size: 30px;}
+
+
+}
